@@ -1,0 +1,14 @@
+#agreement_status{
+    padding-top: 10px;
+}
+#agreement_title{
+    width: 50%;
+    margin-left: 60px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+.agreement_title_field label{
+    font-size: larger;
+} 
+
+
